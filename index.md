@@ -2,10 +2,18 @@
 layout: sage
 ---
 
-# Chris Jones
 
+<div style="display:flex">
+<div style="flex:25%">
+    <img alt="my picture" src="/assets/images/chrisjones.png" height="200px">
+</div>
+<div style="flex:75%">
+<h1>Chris Jones</h1>
 chris.jones@unibocconi.it  
+<br>
 he/him
+</div>
+</div>
 
 👋 Hi! I'm a postdoctoral researcher in theoretical computer science at [Bocconi University](https://dec.unibocconi.eu/)
 supported by [Luca Trevisan]. 
@@ -19,9 +27,6 @@ Most of my work has studied average-case (a.k.a random/statistical) inputs.
 You can read more in my [PhD thesis](/assets/papers/phd-thesis.pdf).
 
 
-<p align="center">
-    <img alt="Chris Jones" src="/assets/images/chrisjones.png" height="250px">
-</p>
 
 ## Research
 
