@@ -5,7 +5,7 @@ layout: sage
 
 <div style="display:flex">
 <div style="flex:25%">
-    <img alt="my picture" src="/assets/images/chrisjones.png" height="200px">
+    <img alt="my picture" src="/assets/images/chrisjones.jpg" height="200px">
 </div>
 <div style="flex:75%">
 <h1>Chris Jones</h1>
