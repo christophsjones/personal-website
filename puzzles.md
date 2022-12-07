@@ -26,11 +26,11 @@ If you want to see how the puzzle works, you can read the solutions.
     A unique logic puzzle with no written instructions. 
   </div>
   <div class="column">
-<a href="https://2021.galacticpuzzlehunt.com/puzzle/piano-typer" target="_blank">
+<a href="https://chrisjones.space/piano-typer" target="_blank">
 <img src="/assets/images/piano-typer.png" style="width:100%">
 </a>
 <div class="minititle">
-<a href="https://2021.galacticpuzzlehunt.com/puzzle/piano-typer" target="_blank">Piano Typer</a>
+<a href="https://chrisjones.space/piano-typer" target="_blank">Piano Typer</a>
 </div>
 It's really just a game. Type the words to the beat! 
   </div>
