@@ -5,7 +5,7 @@ permalink: /puzzles
 
 # Puzzles
 
-A puzzle asks you to find the hidden explanation or pattern behind something that at first glance looks impossible or meaningless (a computer scientist might call it a "[planted problem](https://en.wikipedia.org/wiki/Planted_clique)").
+A puzzle asks you to find the hidden explanation or pattern behind something that at first glance looks meaningless or incomplete (a computer scientist might call it a "[planted problem](https://en.wikipedia.org/wiki/Planted_clique)").
 I like writing and solving puzzles of all sorts, especially puzzles in [puzzle hunts](https://en.wikipedia.org/wiki/Puzzlehunt).
 I once wrote for and [commentated](https://www.youtube.com/watch?v=jqlrJtg-JKg&ab_channel=YewLabs) a crossword tournament.
 
@@ -83,4 +83,5 @@ Here are other puzzles that I've made.
 
 Other
  - I wrote a bunch of crossword puzzles for the [Chicago Maroon](https://www.chicagomaroon.com) (the University of Chicago's student newspaper) which you can solve [here](https://chicagomaroon.com/category/games/).
+ - [Minus Square](https://docs.google.com/spreadsheets/d/1uo16I4Oubk6BIacI7sHC8boFbMY8MZkPGaiN3Pfvz00/edit?usp=sharing) cryptic crossword with a mysterious layout and a 5-letter answer
  - [DFA crossword](/assets/puzzle-pdfs/dfa-crossword.pdf) made for [STOC 2022](http://acm-stoc.org/stoc2022/)
