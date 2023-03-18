@@ -27,8 +27,11 @@ Most of my work has studied average-case (a.k.a random/statistical) inputs.
 You can read more in my [PhD thesis](/assets/papers/phd-thesis.pdf).
 
 
-
 ## Research
+
+**Sum-of-Squares Lower Bounds for Densest k-Subgraph**  
+Chris Jones, [Aaron Potechin], [Goutham Rajendran], [Jeff Xu]  
+*STOC 2023*
 
 **Exact Completeness of LP Hierarchies for Linear Codes**  
 [Leonardo Nagami Coregliano], [Fernando Granha Jeronimo], Chris Jones  
@@ -36,7 +39,7 @@ You can read more in my [PhD thesis](/assets/papers/phd-thesis.pdf).
 
 **Random Max-CSPs Inherit Algorithmic Hardness from Spin Glasses**  
 Chris Jones, [Kunal Marwaha], [Juspreet Singh Sandhu], [Jonathan Shi]  
-*ITCS 2023* [(pdf)](/assets/papers/random-max-csps-inherit.pdf)
+*ITCS 2023* [(pdf)](/assets/papers/random-max-csps-inherit.pdf) [(slides)](https://docs.google.com/presentation/d/1ePAkyX7h1s160M99Ivhkm_0s5eJZSboP1cQaCzXdVSk/edit?usp=sharing) [(video)](https://drive.google.com/file/d/1Gr11DcHiE7ZJ7bQw8J6tdQXshHmhHiIH/view?usp=share_link)
 
 **A Complete Linear Programming Hierarchy for Linear Codes**  
 [Leonardo Nagami Coregliano], [Fernando Granha Jeronimo], Chris Jones  

@@ -5,7 +5,7 @@ permalink: /puzzles
 
 # Puzzles
 
-A puzzle asks you to find the hidden explanation or pattern behind something that at first glance looks meaningless or incomplete (a computer scientist might call it a "[planted problem](https://en.wikipedia.org/wiki/Planted_clique)").
+A puzzle asks you to find the hidden answer or pattern behind something that at first glance looks incomplete or meaningless (a computer scientist might call it a "[planted problem](https://en.wikipedia.org/wiki/Planted_clique)").
 I like writing and solving puzzles of all sorts, especially puzzles in [puzzle hunts](https://en.wikipedia.org/wiki/Puzzlehunt).
 I once wrote for and [commentated](https://www.youtube.com/watch?v=jqlrJtg-JKg&ab_channel=YewLabs) a crossword tournament.
 
