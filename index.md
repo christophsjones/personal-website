@@ -31,7 +31,7 @@ You can read more in my [PhD thesis](/assets/papers/phd-thesis.pdf).
 
 **Sum-of-Squares Lower Bounds for Densest k-Subgraph**  
 Chris Jones, [Aaron Potechin], [Goutham Rajendran], [Jeff Xu]  
-*STOC 2023*
+*STOC 2023* [(pdf)](/assets/papers/sos-densest-k-subgraph.pdf)
 
 **Exact Completeness of LP Hierarchies for Linear Codes**  
 [Leonardo Nagami Coregliano], [Fernando Granha Jeronimo], Chris Jones  
