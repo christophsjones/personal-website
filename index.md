@@ -30,12 +30,12 @@ You can read more in my [PhD thesis](/assets/papers/phd-thesis.pdf).
 
 ## Research
 
-**Diagram Analysis of Iterative Algorithms** 
-Chris Jones, [Lucas Pesenti] 
+**Diagram Analysis of Iterative Algorithms**  
+Chris Jones, [Lucas Pesenti]  
 *Manuscript, 2024* [(pdf)](/assets/papers/diagram-analysis.pdf)
 
-**Key-Recovery Attack on a Public-Key Encryption Related to Planted Clique** 
-[Caicai Chen], Chris Jones 
+**Key-Recovery Attack on a Public-Key Encryption Related to Planted Clique**  
+[Caicai Chen], Chris Jones  
 *Manuscript, 2024* [(pdf)](/assets/papers/attack-pke-planted-clique.pdf)
 
 **Sum-of-Squares Lower Bounds for Densest k-Subgraph**  
