@@ -26,8 +26,17 @@ Recently I've been working on semidefinite programming algorithms (specifically 
 Most of my work has studied average-case (a.k.a random/statistical) inputs. 
 You can read more in my [PhD thesis](/assets/papers/phd-thesis.pdf).
 
+**Update:** my new work with Lucas Pesenti on [Diagram Analysis of Iterative Algorithms](/assets/papers/diagram-analysis.pdf) is out, in which we connect major ideas between Sum-of-Squares algorithms and statistical physics. I recommend checking it out!
 
 ## Research
+
+**Diagram Analysis of Iterative Algorithms** 
+Chris Jones, [Lucas Pesenti] 
+*Manuscript, 2024* [(pdf)](/assets/papers/diagram-analysis.pdf)
+
+**Key-Recovery Attack on a Public-Key Encryption Related to Planted Clique** 
+[Caicai Chen], Chris Jones 
+*Manuscript, 2024* [(pdf)](/assets/papers/attack-pke-planted-clique.pdf)
 
 **Sum-of-Squares Lower Bounds for Densest k-Subgraph**  
 Chris Jones, [Aaron Potechin], [Goutham Rajendran], [Jeff Xu]  
@@ -51,7 +60,7 @@ Chris Jones, [Aaron Potechin]
 
 **Sum-of-Squares Lower Bounds for Sparse Independent Set**  
 Chris Jones, [Aaron Potechin], [Goutham Rajendran], [Madhur Tulsiani], [Jeff Xu]  
-*FOCS 2021* [(pdf)](/assets/papers/sos-sparse-independent-set.pdf) [(slides)](https://docs.google.com/presentation/d/1XXcav2iI491dAznAVSA2JI7O15MTG2C836JBxCliPgA/edit?usp=sharing)
+*FOCS 2021* [(pdf)](/assets/papers/sos-sparse-independent-set.pdf) 
 
 **Sum-of-Squares Lower Bounds for Sherrington-Kirkpatrick via Planted Affine Planes**  
 [Mrinalkanti Ghosh], [Fernando Granha Jeronimo], Chris Jones, [Aaron Potechin], [Goutham Rajendran]  
@@ -66,7 +75,7 @@ Chris Jones, Matt McPartlon
 
 **Symmetrized Fourier Analysis of Convex Relaxations for Combinatorial Optimization Problems**  
 PhD thesis, advised by [Aaron Potechin].  
-[(pdf)](/assets/papers/phd-thesis.pdf) [(slides)](https://docs.google.com/presentation/d/1ZgbBSZc3tjZHSlxDDOv-YZPyhorxyEu6gv4EOdIaH5I/edit?usp=sharing)
+[(pdf)](/assets/papers/phd-thesis.pdf)
 
 **Sum-of-Squares for Unique Games**  
 Slides from my PhD candidacy exam presentation  
@@ -85,8 +94,10 @@ Undergraduate senior thesis, advised by [Ryan O'Donnell].
 [Fernando Granha Jeronimo]: https://granha.github.io
 [Aaron Potechin]: http://www.potechin.org/aaronpotechin
 [Madhur Tulsiani]: https://home.ttic.edu/~madhurt/
-[Goutham Rajendran]: http://people.cs.uchicago.edu/~goutham/
+[Goutham Rajendran]: https://www.cs.cmu.edu/~gouthamr/
 [Jeff Xu]: https://www.andrew.cmu.edu/user/sichaoxu/
-[Leonardo Nagami Coregliano]: https://www.math.ias.edu/~lenacore/
+[Leonardo Nagami Coregliano]: http://www.math.uchicago.edu/~lenacore/
 [Luca Trevisan]: https://lucatrevisan.github.io/
 [Ryan O'Donnell]: https://www.cs.cmu.edu/~odonnell/
+[Caicai Chen]: https://caicai-chen.github.io/
+[Lucas Pesenti]: https://lucaspesenti.github.io/
