@@ -26,7 +26,7 @@ Recently I've been working on semidefinite programming algorithms (specifically 
 Most of my work has studied average-case (a.k.a random/statistical) inputs. 
 You can read more in my [PhD thesis](/assets/papers/phd-thesis.pdf).
 
-**Update:** my new work with Lucas Pesenti on [Diagram Analysis of Iterative Algorithms](/assets/papers/diagram-analysis.pdf) is out, in which we connect major ideas between Sum-of-Squares algorithms and statistical physics. I recommend checking it out!
+**Update:** my new work with Lucas Pesenti on [Diagram Analysis of Iterative Algorithms](/assets/papers/diagram-analysis.pdf) is out, in which we connect ideas between Sum-of-Squares algorithms and statistical physics. Check it out!
 
 ## Research
 
