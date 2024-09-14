@@ -16,19 +16,28 @@ he/him
 </div>
 
 👋 Hi! I'm a postdoctoral researcher in theoretical computer science at [Bocconi University](https://dec.unibocconi.eu/)
-supported by [Luca Trevisan]. 
+supported by [Luca Trevisan] and [Alon Rosen]. 
 In spring 2022, I obtained my PhD from the [University of Chicago](https://www.cs.uchicago.edu)
 advised by [Aaron Potechin].
 
 
 I am interested in mathematically-inspired algorithm design techniques.
-Recently I've been working on semidefinite programming algorithms (specifically the sum-of-squares hierarchy) and algorithms from statistical physics.
+Recently I've been working on semidefinite programming algorithms (specifically the Sum-of-Squares hierarchy),
+low-degree algorithms, and algorithms from statistical physics.
 Most of my work has studied average-case (a.k.a random/statistical) inputs. 
-You can read more in my [PhD thesis](/assets/papers/phd-thesis.pdf).
 
 **Update:** my new work with Lucas Pesenti on [Diagram Analysis of Iterative Algorithms](/assets/papers/diagram-analysis.pdf) is out, in which we connect ideas between Sum-of-Squares algorithms and statistical physics. Check it out!
 
 ## Research
+
+
+**Higher-order Delsarte Dual LPs: Lifting, Constructions, and Completeness**  
+[Leonardo Nagami Coregliano], [Fernando Granha Geronimo], Chris Jones, [Nati Linial], Elyassaf Loyfer  
+*Manuscript, 2024*
+
+**Low-degree Security of the Planted Random Subgraph Problem**  
+[Andrej Bogdanov], Chris Jones, [Alon Rosen], [Ilias Zadik]  
+*TCC 2024*
 
 **Diagram Analysis of Iterative Algorithms**  
 Chris Jones, [Lucas Pesenti]  
@@ -101,3 +110,7 @@ Undergraduate senior thesis, advised by [Ryan O'Donnell].
 [Ryan O'Donnell]: https://www.cs.cmu.edu/~odonnell/
 [Caicai Chen]: https://caicai-chen.github.io/
 [Lucas Pesenti]: https://lucaspesenti.github.io/
+[Alon Rosen]: https://www.alonrosen.net/
+[Ilias Zadik]: https://iliaszadik.github.io/
+[Andrej Bogdanov]: https://andrejb.net/
+[Nati Linial]: https://www.cs.huji.ac.il/~nati/
