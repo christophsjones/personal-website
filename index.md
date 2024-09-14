@@ -32,7 +32,7 @@ Most of my work has studied average-case (a.k.a random/statistical) inputs.
 
 
 **Higher-order Delsarte Dual LPs: Lifting, Constructions, and Completeness**  
-[Leonardo Nagami Coregliano], [Fernando Granha Geronimo], Chris Jones, [Nati Linial], Elyassaf Loyfer  
+[Leonardo Nagami Coregliano], [Fernando Granha Jeronimo], Chris Jones, [Nati Linial], Elyassaf Loyfer  
 *Manuscript, 2024*
 
 **Low-degree Security of the Planted Random Subgraph Problem**  
