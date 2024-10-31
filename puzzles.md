@@ -5,25 +5,26 @@ permalink: /puzzles
 
 # Puzzles
 
-A puzzle asks you to find the hidden answer or pattern behind something that at first glance looks incomplete or meaningless (a computer scientist might call it a "[planted problem](https://en.wikipedia.org/wiki/Planted_clique)").
+A puzzle asks you to find the answer or hidden pattern behind something that at first is incomplete or even meaningless (a computer scientist might say it is in [NP](https://en.wikipedia.org/wiki/NP_%28complexity%29) or is a [planted problem](https://en.wikipedia.org/wiki/Planted_clique)).
 I like writing and solving puzzles of all sorts, especially puzzles in [puzzle hunts](https://en.wikipedia.org/wiki/Puzzlehunt).
 I once wrote for and [commentated](https://www.youtube.com/watch?v=jqlrJtg-JKg&ab_channel=YewLabs) a crossword tournament.
 
 
-Here are some selected puzzles. 
-If you "figure out" how the puzzle works and "do it", then you can 
-get a single answer word or phrase from each one.
-If you want to see how the puzzle works, you can read the solutions. 
+Below are some of the puzzles I've written for puzzle hunts.
+These puzzles usually don't come with any explicit instructions;
+if you "figure out" what the puzzle is getting at, there is a natural path
+to a single answer word or phrase from each one.
+To see how this kind of puzzle works, have a look at the solutions. 
 
 
 <link rel="stylesheet" href="/assets/css/table.css">
 <div class="row">
   <div class="column">
-    <a href="https://2019.galacticpuzzlehunt.com/puzzle/cuspidation.html" target="_blank"><img src="/assets/images/cuspidation.png" style="width:100%"></a>
-    <div class="minititle">
-    <a href="https://2019.galacticpuzzlehunt.com/puzzle/cuspidation.html" target="_blank">Cuspidation</a>
+    <a href="/assets/images/ascii-art.png" target="_blank"><img src="/assets/images/ascii-art.png" style="width:100%"></a>
+    <div style="color:#a82d4d;" class="minititle">
+    ASCII Art
     </div>
-    A unique logic puzzle with no written instructions. 
+    The image is the entire puzzle. <a href="https://2024.galacticpuzzlehunt.com/solution/ascii_art" target="_blank">(solution)</a>
   </div>
   <div class="column">
 <a href="https://chrisjones.space/piano-typer" target="_blank">
@@ -41,7 +42,7 @@ It's really just a game. Type the words to the beat!
 <div class="minititle">
 <a href="https://perpendicular.institute/puzzle/pcluers/" target="_blank">PClueRS</a>
 </div>
-A benign-looking but extremely difficult word puzzle. Even experts will find it impenetrable.
+A benign-looking but extremely difficult word puzzle. This puzzle is designed for a group of experts.
   </div>
 </div>
 
@@ -53,6 +54,7 @@ Here are other puzzles that I've made.
  - [Not to Scale](https://2020.galacticpuzzlehunt.com/puzzle/not-to-scale) ([solution](https://2020.galacticpuzzlehunt.com/solution/not-to-scale))
  - [Mixed Message](https://2020.galacticpuzzlehunt.com/puzzle/mixed-message) ([solution](https://2020.galacticpuzzlehunt.com/solution/mixed-message))
  - [Fridge Magnets](https://2020.galacticpuzzlehunt.com/puzzle/fridge-magnets#left) ([solution](https://2020.galacticpuzzlehunt.com/solution/fridge-magnets))
+ - [Cuspidation](https://2019.galacticpuzzlehunt.com/puzzle/cuspidation.html) ([solution](https://2019.galacticpuzzlehunt.com/solution/cuspidation.html))
  - [Where are They?](https://2019.galacticpuzzlehunt.com/puzzle/where-are-they.html) ([solution](https://2019.galacticpuzzlehunt.com/solution/where-are-they.html))
  - [Special Snowflake](https://2018.galacticpuzzlehunt.com/puzzle/special-snowflake.html) ([solution](https://2018.galacticpuzzlehunt.com/solution/special-snowflake.html))
  - [o ea / Wrd Srch](https://2018.galacticpuzzlehunt.com/puzzle/o-ea-wrd-srch.html) ([solution](https://2018.galacticpuzzlehunt.com/solution/o-ea-wrd-srch.html))
