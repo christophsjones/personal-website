@@ -14,7 +14,7 @@ Below are some of the puzzles I've written for puzzle hunts.
 These puzzles usually don't come with any explicit instructions;
 if you "figure out" what the puzzle is getting at, there is a natural path
 to a single answer word or phrase from each one.
-To see how this kind of puzzle works, have a look at the solutions. 
+To see how this kind of puzzle works, have a look at the solutions.  
 
 
 <link rel="stylesheet" href="/assets/css/table.css">
@@ -24,7 +24,7 @@ To see how this kind of puzzle works, have a look at the solutions.
     <div style="color:#a82d4d;" class="minititle">
     ASCII Art
     </div>
-    The image is the entire puzzle. <a href="https://2024.galacticpuzzlehunt.com/solution/ascii_art" target="_blank">(solution)</a>
+    Just one image. <a href="https://2024.galacticpuzzlehunt.com/solution/ascii_art" target="_blank">(solution)</a>
   </div>
   <div class="column">
 <a href="https://chrisjones.space/piano-typer" target="_blank">
