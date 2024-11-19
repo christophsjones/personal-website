@@ -26,7 +26,7 @@ Recently I've been working on semidefinite programming algorithms (specifically 
 low-degree algorithms, and algorithms from statistical physics.
 Most of my work has studied average-case (a.k.a random/statistical) inputs. 
 
-**Update:** my new work with Lucas Pesenti on [Fourier Analysis of Iterative Algorithms](/assets/papers/fourier-analysis-iterative.pdf) is out, in which we connect ideas between statistical physics and Boolean Fourier analysis (in the style of Sum-of-Squares). Check it out!
+**Update:** my new work with Lucas Pesenti on [Fourier Analysis of Iterative Algorithms](/assets/papers/fourier-analysis-iterative.pdf) is out, in which we connect ideas between statistical physics and low-degree polynomial analysis. Check it out!
 
 ## Research
 
@@ -38,7 +38,7 @@ Most of my work has studied average-case (a.k.a random/statistical) inputs.
 [Andrej Bogdanov], Chris Jones, [Alon Rosen], [Ilias Zadik]  
 *TCC 2024* [(pdf)](/assets/papers/planted-random-subgraph.pdf)
 
-**Diagram Analysis of Iterative Algorithms**  
+**Fourier Analysis of Iterative Algorithms**  
 Chris Jones, [Lucas Pesenti]  
 *Manuscript, 2024* [(pdf)](/assets/papers/fourier-analysis-iterative.pdf)
 
