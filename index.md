@@ -26,10 +26,9 @@ Recently I've been working on semidefinite programming algorithms (specifically 
 low-degree algorithms, and algorithms from statistical physics.
 Most of my work has studied average-case (a.k.a random/statistical) inputs. 
 
-**Update:** my new work with Lucas Pesenti on [Diagram Analysis of Iterative Algorithms](/assets/papers/diagram-analysis.pdf) is out, in which we connect ideas between Sum-of-Squares algorithms and statistical physics. Check it out!
+**Update:** my new work with Lucas Pesenti on [Fourier Analysis of Iterative Algorithms](/assets/papers/fourier-analysis-iterative.pdf) is out, in which we connect ideas between statistical physics and Boolean Fourier analysis (in the style of Sum-of-Squares). Check it out!
 
 ## Research
-
 
 **Higher-order Delsarte Dual LPs: Lifting, Constructions, and Completeness**  
 [Leonardo Nagami Coregliano], [Fernando Granha Jeronimo], Chris Jones, [Nati Linial], Elyassaf Loyfer  
@@ -37,11 +36,11 @@ Most of my work has studied average-case (a.k.a random/statistical) inputs.
 
 **Low-degree Security of the Planted Random Subgraph Problem**  
 [Andrej Bogdanov], Chris Jones, [Alon Rosen], [Ilias Zadik]  
-*TCC 2024*
+*TCC 2024* [(pdf)](/assets/papers/planted-random-subgraph.pdf)
 
 **Diagram Analysis of Iterative Algorithms**  
 Chris Jones, [Lucas Pesenti]  
-*Manuscript, 2024* [(pdf)](/assets/papers/diagram-analysis.pdf)
+*Manuscript, 2024* [(pdf)](/assets/papers/fourier-analysis-iterative.pdf)
 
 **Key-Recovery Attack on a Public-Key Encryption Related to Planted Clique**  
 [Caicai Chen], Chris Jones  
