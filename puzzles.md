@@ -50,6 +50,17 @@ A benign-looking but extremely difficult word puzzle. This puzzle is designed fo
 Here are other puzzles that I've made.
 
 [Galactic Puzzle Hunt](https://galacticpuzzlehunt.com)
+ - [Big Branch](https://2024.galacticpuzzlehunt.com/puzzle/big_branch) ([solution](https://2024.galacticpuzzlehunt.com/solution/big_branch))
+ - [Make Your Own Crossword Puzzle](https://2024.galacticpuzzlehunt.com/puzzle/make_your_own_crossword_puzzle) ([solution](https://2024.galacticpuzzlehunt.com/solution/make_your_own_crossword_puzzle))
+ - [Morse Code](https://2024.galacticpuzzlehunt.com/puzzle/morse_code) ([solution](https://2024.galacticpuzzlehunt.com/solution/morse_code))
+ - [Let's Get This Bread](https://2024.galacticpuzzlehunt.com/puzzle/lets_get_this_bread) ([solution](https://2024.galacticpuzzlehunt.com/solution/lets_get_this_bread))
+ - [Mini Cryptic](https://2024.galacticpuzzlehunt.com/puzzle/mini_cryptic) ([solution](https://2024.galacticpuzzlehunt.com/solution/mini_cryptic))
+<!-- - [11x11 Crossword](https://2024.galacticpuzzlehunt.com/puzzle/11x11_crossword) ([solution](https://2024.galacticpuzzlehunt.com/solution/11x11_crossword)) -->  
+ - [Zoomer Jumbles](https://2024.galacticpuzzlehunt.com/puzzle/zoomer_jumbles) ([solution](https://2024.galacticpuzzlehunt.com/solution/zoomer_jumbles))
+ - [High Precision](https://2024.galacticpuzzlehunt.com/puzzle/high_precision) ([solution](https://2024.galacticpuzzlehunt.com/solution/high_precision))
+ - [Blank Squares](https://2024.galacticpuzzlehunt.com/puzzle/blank_squares_83464965) ([solution](https://2024.galacticpuzzlehunt.com/solution/blank_squares_83464965))
+<!-- - [LELE!](https://2024.galacticpuzzlehunt.com/puzzle/lele) ([solution](https://2024.galacticpuzzlehunt.com/solution/lele)) -->  
+ - [Petroglyph](https://2023.galacticpuzzlehunt.com/puzzle/petroglyph) ([solution](https://2023.galacticpuzzlehunt.com/solution/petroglyph))
  - [Me, the Worm](https://2022.galacticpuzzlehunt.com/puzzle/me-the-worm) ([solution](https://2021.galacticpuzzlehunt.com/solution/me-the-worm))
  - [Not to Scale](https://2020.galacticpuzzlehunt.com/puzzle/not-to-scale) ([solution](https://2020.galacticpuzzlehunt.com/solution/not-to-scale))
  - [Mixed Message](https://2020.galacticpuzzlehunt.com/puzzle/mixed-message) ([solution](https://2020.galacticpuzzlehunt.com/solution/mixed-message))
