@@ -26,13 +26,15 @@ Recently I've been working on semidefinite programming algorithms (specifically 
 low-degree algorithms, and algorithms from statistical physics.
 Most of my work has studied average-case (a.k.a random/statistical) inputs. 
 
-**Update:** my new work with Lucas Pesenti on [Fourier Analysis of Iterative Algorithms](/assets/papers/fourier-analysis-iterative.pdf) is out, in which we connect ideas between statistical physics and low-degree polynomial analysis. Check it out!
-
 ## Research
+
+**Sparsest Cut and Eigenvalue Multiplicities on Low-Degree Abelian Cayley Graphs**  
+[Tommaso d'Orsi], Chris Jones, [Jake Ruotolo], [Salil Vadhan], [Jiyu Zhang]  
+*Manuscript, 2024* [(pdf)](/assets/papers/sparsest-cut-low-degree-abelian.pdf)
 
 **Higher-order Delsarte Dual LPs: Lifting, Constructions, and Completeness**  
 [Leonardo Nagami Coregliano], [Fernando Granha Jeronimo], Chris Jones, [Nati Linial], Elyassaf Loyfer  
-*Manuscript, 2024*
+*Manuscript, 2024* [(pdf)](/assets/papers/ho-delsarte.pdf)
 
 **Low-degree Security of the Planted Random Subgraph Problem**  
 [Andrej Bogdanov], Chris Jones, [Alon Rosen], [Ilias Zadik]  
@@ -113,3 +115,7 @@ Undergraduate senior thesis, advised by [Ryan O'Donnell].
 [Ilias Zadik]: https://iliaszadik.github.io/
 [Andrej Bogdanov]: https://andrejb.net/
 [Nati Linial]: https://www.cs.huji.ac.il/~nati/
+[Jiyu Zhang]: https://jiyuzhang1994.github.io/
+[Tommaso d'Orsi]: https://tommasodorsi.github.io/
+[Salil Vadhan]: https://salil.seas.harvard.edu/
+[Jake Ruotolo]: https://www.jakeruotolo.com/
