@@ -32,6 +32,10 @@ Most of my work has studied average-case (a.k.a random/statistical) inputs.
 [Tommaso d'Orsi], Chris Jones, [Jake Ruotolo], [Salil Vadhan], [Jiyu Zhang]  
 *Manuscript, 2024* [(pdf)](/assets/papers/sparsest-cut-low-degree-abelian.pdf)
 
+**Fourier Analysis of Iterative Algorithms**  
+Chris Jones, [Lucas Pesenti]  
+*ICALP, 2025* [(pdf)](/assets/papers/fourier-analysis-iterative.pdf)
+
 **Higher-order Delsarte Dual LPs: Lifting, Constructions, and Completeness**  
 [Leonardo Nagami Coregliano], [Fernando Granha Jeronimo], Chris Jones, [Nati Linial], Elyassaf Loyfer  
 *Manuscript, 2024* [(pdf)](/assets/papers/ho-delsarte.pdf)
@@ -39,10 +43,6 @@ Most of my work has studied average-case (a.k.a random/statistical) inputs.
 **Low-degree Security of the Planted Random Subgraph Problem**  
 [Andrej Bogdanov], Chris Jones, [Alon Rosen], [Ilias Zadik]  
 *TCC 2024* [(pdf)](/assets/papers/planted-random-subgraph.pdf)
-
-**Fourier Analysis of Iterative Algorithms**  
-Chris Jones, [Lucas Pesenti]  
-*Manuscript, 2024* [(pdf)](/assets/papers/fourier-analysis-iterative.pdf)
 
 **Key-Recovery Attack on a Public-Key Encryption Related to Planted Clique**  
 [Caicai Chen], Chris Jones  

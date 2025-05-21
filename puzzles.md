@@ -5,8 +5,7 @@ permalink: /puzzles
 
 # Puzzles
 
-A puzzle asks you to find the answer or hidden pattern behind something that at first is incomplete or even meaningless (a computer scientist might say it is in [NP](https://en.wikipedia.org/wiki/NP_%28complexity%29) or is a [planted problem](https://en.wikipedia.org/wiki/Planted_clique)).
-I like writing and solving puzzles of all sorts, especially puzzles in [puzzle hunts](https://en.wikipedia.org/wiki/Puzzlehunt).
+I like writing and solving puzzles of all sorts, especially the kinds of puzzles in [puzzle hunts](https://en.wikipedia.org/wiki/Puzzlehunt) and escape rooms.
 I once wrote for and [commentated](https://www.youtube.com/watch?v=jqlrJtg-JKg&ab_channel=YewLabs) a crossword tournament.
 
 
@@ -47,7 +46,6 @@ A benign-looking but extremely difficult word puzzle. This puzzle is designed fo
 </div>
 
 
-Here are other puzzles that I've made.
 
 [Galactic Puzzle Hunt](https://galacticpuzzlehunt.com)
  - [Big Branch](https://2024.galacticpuzzlehunt.com/puzzle/big_branch) ([solution](https://2024.galacticpuzzlehunt.com/solution/big_branch))
