@@ -11,6 +11,8 @@ layout: sage
 <h1>Chris Jones</h1>
 chijones@ucdavis.edu
 <br>
+Office: MSB 2224
+<br>
 he/him
 </div>
 </div>
