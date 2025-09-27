@@ -36,7 +36,8 @@ In fall 2025, I am teaching MAT 19C "Calculus for Data-Driven Applications". If 
 
 **Sparsest Cut and Eigenvalue Multiplicities on Low-Degree Abelian Cayley Graphs**  
 [Tommaso d'Orsi], Chris Jones, [Jake Ruotolo], [Salil Vadhan], [Jiyu Zhang]  
-*Manuscript, 2024* [(pdf)](/assets/papers/sparsest-cut-low-degree-abelian.pdf)
+*APPROX, 2025* [(pdf)](/assets/papers/sparsest-cut-low-degree-abelian.pdf)  
+**Invited to Theory of Computing special issue for APPROX/RANDOM 2025**
 
 **Fourier Analysis of Iterative Algorithms**  
 Chris Jones, [Lucas Pesenti]  
