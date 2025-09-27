@@ -17,7 +17,7 @@ he/him
 </div>
 </div>
 
-👋 Hi! I'm a Krener Visiting Assistant Professor in the Math Department at [UC Davis](https://www.math.ucdavis.edu/).
+👋 Hi! I'm a Krener Visiting Assistant Professor in the Math Department at [UC Davis](https://www.math.ucdavis.edu/) hosted by [Alex Wein].
 Previously, I was a postdoctoral researcher at [Bocconi University](https://dec.unibocconi.eu/)
 supported by [Luca Trevisan] and [Alon Rosen]. 
 I obtained my PhD in 2022 from the [University of Chicago](https://www.cs.uchicago.edu)
@@ -126,3 +126,4 @@ Undergraduate senior thesis, advised by [Ryan O'Donnell].
 [Tommaso d'Orsi]: https://tommasodorsi.github.io/
 [Salil Vadhan]: https://salil.seas.harvard.edu/
 [Jake Ruotolo]: https://www.jakeruotolo.com/
+[Alex Wein]: https://www.alex-wein.com/
