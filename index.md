@@ -32,6 +32,16 @@ Most of my work has studied average-case (a.k.a random/statistical) inputs.
 
 In fall 2025, I am teaching MAT 19C "Calculus for Data-Driven Applications". If you are a student looking for the course webpage, it's on Canvas!
 
+## Some Recorded Talks
+
+(30 minutes) Fourier Analysis of Iterative Algorithms  
+*Les Houches workshop on "Towards a Theory for Typical-Case Algorithmic Hardness", February 2025*  
+[(video)](https://videos.univ-grenoble-alpes.fr/video/32138-2025_02_04_18_25_c-jones/) [(paper)](/assets/papers/fourier-analysis-iterative.pdf)
+
+(30 minutes) Almost-Orthogonal Bases for Inner Product Polynomials  
+*Innovations in Theoretical Computer Science 2022 conference*  
+[(video)](https://www.youtube.com/watch?v=RNQIBwNxrv8) [(paper)](/assets/papers/inner-product-polynomials.pdf)
+
 ## Research
 
 **Sparsest Cut and Eigenvalue Multiplicities on Low-Degree Abelian Cayley Graphs**  
@@ -41,7 +51,7 @@ In fall 2025, I am teaching MAT 19C "Calculus for Data-Driven Applications". If 
 
 **Fourier Analysis of Iterative Algorithms**  
 Chris Jones, [Lucas Pesenti]  
-*ICALP, 2025* [(pdf)](/assets/papers/fourier-analysis-iterative.pdf)
+*ICALP, 2025* [(pdf)](/assets/papers/fourier-analysis-iterative.pdf) [(video)](https://videos.univ-grenoble-alpes.fr/video/32138-2025_02_04_18_25_c-jones/)
 
 **Higher-order Delsarte Dual LPs: Lifting, Constructions, and Completeness**  
 [Leonardo Nagami Coregliano], [Fernando Granha Jeronimo], Chris Jones, [Nati Linial], Elyassaf Loyfer  
@@ -86,7 +96,6 @@ Chris Jones, [Aaron Potechin], [Goutham Rajendran], [Madhur Tulsiani], [Jeff Xu]
 **Spherical Discrepancy Minimization and Algorithmic Lower Bounds for Covering the Sphere**  
 Chris Jones, Matt McPartlon  
 *SODA 2020* [(pdf)](/assets/papers/spherical-discrepancy.pdf) [(slides)](/assets/slides/spherical-discrepancy-slides.pdf)
-
 
 ## Other
 
