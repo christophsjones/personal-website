@@ -39,7 +39,7 @@ In fall 2025, I am teaching MAT 19C "Calculus for Data-Driven Applications". If 
 [(video)](https://videos.univ-grenoble-alpes.fr/video/32138-2025_02_04_18_25_c-jones/) [(paper)](/assets/papers/fourier-analysis-iterative.pdf)
 
 (30 minutes) Almost-Orthogonal Bases for Inner Product Polynomials  
-*Innovations in Theoretical Computer Science 2022 conference*  
+*Innovations in Theoretical Computer Science conference, January 2022*  
 [(video)](https://www.youtube.com/watch?v=RNQIBwNxrv8) [(paper)](/assets/papers/inner-product-polynomials.pdf)
 
 ## Research
