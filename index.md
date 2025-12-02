@@ -44,6 +44,10 @@ In fall 2025, I am teaching MAT 19C "Calculus for Data-Driven Applications". If 
 
 ## Research
 
+**Higher-order Delsarte Dual LPs: Lifting, Constructions, and Completeness**  
+[Leonardo Nagami Coregliano], [Fernando Granha Jeronimo], Chris Jones, [Nati Linial], Elyassaf Loyfer  
+*ITCS, 2026* [(pdf)](/assets/papers/ho-delsarte.pdf)
+
 **Sparsest Cut and Eigenvalue Multiplicities on Low-Degree Abelian Cayley Graphs**  
 [Tommaso d'Orsi], Chris Jones, [Jake Ruotolo], [Salil Vadhan], [Jiyu Zhang]  
 *APPROX, 2025* [(pdf)](/assets/papers/sparsest-cut-low-degree-abelian.pdf)  
@@ -52,10 +56,6 @@ In fall 2025, I am teaching MAT 19C "Calculus for Data-Driven Applications". If 
 **Fourier Analysis of Iterative Algorithms**  
 Chris Jones, [Lucas Pesenti]  
 *ICALP, 2025* [(pdf)](/assets/papers/fourier-analysis-iterative.pdf) [(video)](https://videos.univ-grenoble-alpes.fr/video/32138-2025_02_04_18_25_c-jones/)
-
-**Higher-order Delsarte Dual LPs: Lifting, Constructions, and Completeness**  
-[Leonardo Nagami Coregliano], [Fernando Granha Jeronimo], Chris Jones, [Nati Linial], Elyassaf Loyfer  
-*Manuscript, 2024* [(pdf)](/assets/papers/ho-delsarte.pdf)
 
 **Low-degree Security of the Planted Random Subgraph Problem**  
 [Andrej Bogdanov], Chris Jones, [Alon Rosen], [Ilias Zadik]  
