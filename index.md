@@ -97,6 +97,11 @@ Chris Jones, [Aaron Potechin], [Goutham Rajendran], [Madhur Tulsiani], [Jeff Xu]
 Chris Jones, Matt McPartlon  
 *SODA 2020* [(pdf)](/assets/papers/spherical-discrepancy.pdf) [(slides)](/assets/slides/spherical-discrepancy-slides.pdf)
 
+## Notes
+
+**Notes on the proof of the second LP bound and association schemes**  
+[(pdf)](/assets/notes/second_lp_bound.pdf)
+
 ## Other
 
 **Symmetrized Fourier Analysis of Convex Relaxations for Combinatorial Optimization Problems**  
