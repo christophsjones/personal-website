@@ -44,6 +44,10 @@ In fall 2025, I am teaching MAT 19C "Calculus for Data-Driven Applications". If 
 
 ## Research
 
+**The Grothendieck Constant is Strictly Larger than Davie-Reeds' Bound**  
+Chris Jones, [Giulio Malavolta]  
+*Manuscript* [(pdf)](/assets/papers/grothendieck-strictly-larger.pdf)
+
 **Higher-order Delsarte Dual LPs: Lifting, Constructions, and Completeness**  
 [Leonardo Nagami Coregliano], [Fernando Granha Jeronimo], Chris Jones, [Nati Linial], Elyassaf Loyfer  
 *ITCS, 2026* [(pdf)](/assets/papers/ho-delsarte.pdf)
@@ -141,3 +145,4 @@ Undergraduate senior thesis, advised by [Ryan O'Donnell].
 [Salil Vadhan]: https://salil.seas.harvard.edu/
 [Jake Ruotolo]: https://www.jakeruotolo.com/
 [Alex Wein]: https://www.alex-wein.com/
+[Giulio Malavolta]: https://sites.google.com/view/giuliomalavolta/
