@@ -17,7 +17,7 @@ he/him
 </div>
 </div>
 
-👋 Hi! I'm a Krener Visiting Assistant Professor in the Math Department at [UC Davis](https://www.math.ucdavis.edu/) hosted by [Alex Wein].
+👋 Hi! I'm a Math Fellow (postdoc) in the Math Department at [UC Davis](https://www.math.ucdavis.edu/) hosted by [Alex Wein].
 Previously, I was a postdoctoral researcher at [Bocconi University](https://dec.unibocconi.eu/)
 supported by [Luca Trevisan] and [Alon Rosen]. 
 I obtained my PhD in 2022 from the [University of Chicago](https://www.cs.uchicago.edu)
@@ -30,7 +30,6 @@ Recently I've been working on semidefinite programming algorithms (specifically 
 low-degree algorithms, and algorithms from statistical physics.
 Most of my work has studied average-case (a.k.a random/statistical) inputs. 
 
-In fall 2025, I am teaching MAT 19C "Calculus for Data-Driven Applications". If you are a student looking for the course webpage, it's on Canvas!
 
 ## Some Recorded Talks
 
@@ -43,6 +42,10 @@ In fall 2025, I am teaching MAT 19C "Calculus for Data-Driven Applications". If 
 [(video)](https://www.youtube.com/watch?v=RNQIBwNxrv8) [(paper)](/assets/papers/inner-product-polynomials.pdf)
 
 ## Research
+
+**Universality of First-order Methods on Random and Deterministic Matrices**  
+[Nicola Gorini], Chris Jones, [Lucas Pesenti], [Dmitriy Kunisky]  
+*Manuscript* [(pdf)](/assets/papers/universality-gfom.pdf)
 
 **The Grothendieck Constant is Strictly Larger than Davie-Reeds' Bound**  
 Chris Jones, [Giulio Malavolta]  
@@ -146,3 +149,5 @@ Undergraduate senior thesis, advised by [Ryan O'Donnell].
 [Jake Ruotolo]: https://www.jakeruotolo.com/
 [Alex Wein]: https://www.alex-wein.com/
 [Giulio Malavolta]: https://sites.google.com/view/giuliomalavolta/
+[Nicola Gorini]: https://nicolagorini.github.io/
+[Dmitriy Kunisky]: https://www.kunisky.com/
