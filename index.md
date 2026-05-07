@@ -53,7 +53,7 @@ Chris Jones, [Giulio Malavolta]
 
 **Higher-order Delsarte Dual LPs: Lifting, Constructions, and Completeness**  
 [Leonardo Nagami Coregliano], [Fernando Granha Jeronimo], Chris Jones, [Nati Linial], Elyassaf Loyfer  
-*ITCS, 2026* [(pdf)](/assets/papers/ho-delsarte.pdf)
+*ITCS, 2026* [(pdf)](/assets/papers/ho-delsarte.pdf) [(slides)](https://docs.google.com/presentation/d/1KinNHs5AD97EKvtdzT8w6gqi2i0WQmWmcAyG21xP3I4/edit?usp=sharing)
 
 **Sparsest Cut and Eigenvalue Multiplicities on Low-Degree Abelian Cayley Graphs**  
 [Tommaso d'Orsi], Chris Jones, [Jake Ruotolo], [Salil Vadhan], [Jiyu Zhang]  
@@ -66,48 +66,48 @@ Chris Jones, [Lucas Pesenti]
 
 **Low-degree Security of the Planted Random Subgraph Problem**  
 [Andrej Bogdanov], Chris Jones, [Alon Rosen], [Ilias Zadik]  
-*TCC 2024* [(pdf)](/assets/papers/planted-random-subgraph.pdf)
-
-**Key-Recovery Attack on a Public-Key Encryption Related to Planted Clique**  
-[Caicai Chen], Chris Jones  
-*Manuscript, 2024* [(pdf)](/assets/papers/attack-pke-planted-clique.pdf)
+*TCC, 2024* [(pdf)](/assets/papers/planted-random-subgraph.pdf)
 
 **Sum-of-Squares Lower Bounds for Densest k-Subgraph**  
 Chris Jones, [Aaron Potechin], [Goutham Rajendran], [Jeff Xu]  
-*STOC 2023* [(pdf)](/assets/papers/sos-densest-k-subgraph.pdf)
+*STOC, 2023* [(pdf)](/assets/papers/sos-densest-k-subgraph.pdf)
 
 **Exact Completeness of LP Hierarchies for Linear Codes**  
 [Leonardo Nagami Coregliano], [Fernando Granha Jeronimo], Chris Jones  
-*ITCS 2023* [(pdf)](/assets/papers/exact-completeness-of-lp-hierarchies.pdf)
+*ITCS, 2023* [(pdf)](/assets/papers/exact-completeness-of-lp-hierarchies.pdf)
 
 **Random Max-CSPs Inherit Algorithmic Hardness from Spin Glasses**  
 Chris Jones, [Kunal Marwaha], [Juspreet Singh Sandhu], [Jonathan Shi]  
-*ITCS 2023* [(pdf)](/assets/papers/random-max-csps-inherit.pdf) [(slides)](https://docs.google.com/presentation/d/1ePAkyX7h1s160M99Ivhkm_0s5eJZSboP1cQaCzXdVSk/edit?usp=sharing) [(video)](https://drive.google.com/file/d/1Gr11DcHiE7ZJ7bQw8J6tdQXshHmhHiIH/view?usp=share_link)
+*ITCS, 2023* [(pdf)](/assets/papers/random-max-csps-inherit.pdf) [(slides)](https://docs.google.com/presentation/d/1ePAkyX7h1s160M99Ivhkm_0s5eJZSboP1cQaCzXdVSk/edit?usp=sharing) [(video)](https://drive.google.com/file/d/1Gr11DcHiE7ZJ7bQw8J6tdQXshHmhHiIH/view?usp=share_link)
 
 **A Complete Linear Programming Hierarchy for Linear Codes**  
 [Leonardo Nagami Coregliano], [Fernando Granha Jeronimo], Chris Jones  
-*ITCS 2022* [(pdf)](/assets/papers/complete-linear-programming-hierarchy.pdf) [(video)](https://www.youtube.com/watch?v=3kswznFRN6k&ab_channel=SimonsInstitute)
+*ITCS, 2022* [(pdf)](/assets/papers/complete-linear-programming-hierarchy.pdf) [(video)](https://www.youtube.com/watch?v=3kswznFRN6k&ab_channel=SimonsInstitute)
 
 **Almost-Orthogonal Bases for Inner Product Polynomials**  
 Chris Jones, [Aaron Potechin]  
-*ITCS 2022* [(pdf)](/assets/papers/inner-product-polynomials.pdf) [(video)](https://www.youtube.com/watch?v=RNQIBwNxrv8&ab_channel=SimonsInstitute)
+*ITCS, 2022* [(pdf)](/assets/papers/inner-product-polynomials.pdf) [(video)](https://www.youtube.com/watch?v=RNQIBwNxrv8&ab_channel=SimonsInstitute)
 
 **Sum-of-Squares Lower Bounds for Sparse Independent Set**  
 Chris Jones, [Aaron Potechin], [Goutham Rajendran], [Madhur Tulsiani], [Jeff Xu]  
-*FOCS 2021* [(pdf)](/assets/papers/sos-sparse-independent-set.pdf) 
+*FOCS, 2021* [(pdf)](/assets/papers/sos-sparse-independent-set.pdf) 
 
 **Sum-of-Squares Lower Bounds for Sherrington-Kirkpatrick via Planted Affine Planes**  
 [Mrinalkanti Ghosh], [Fernando Granha Jeronimo], Chris Jones, [Aaron Potechin], [Goutham Rajendran]  
-*FOCS 2020* [(pdf)](/assets/papers/sos-sherrington-kirkpatrick.pdf) [(slides)](/assets/slides/sos-sherrington-kirkpatrick-slides.pdf) [(video)](https://www.youtube.com/watch?v=NJdysdBUlEU&ab_channel=IEEEFOCS%3AFoundationsofComputerScience)
+*FOCS, 2020* [(pdf)](/assets/papers/sos-sherrington-kirkpatrick.pdf) [(slides)](/assets/slides/sos-sherrington-kirkpatrick-slides.pdf) [(video)](https://www.youtube.com/watch?v=NJdysdBUlEU&ab_channel=IEEEFOCS%3AFoundationsofComputerScience)
 
 **Spherical Discrepancy Minimization and Algorithmic Lower Bounds for Covering the Sphere**  
 Chris Jones, Matt McPartlon  
-*SODA 2020* [(pdf)](/assets/papers/spherical-discrepancy.pdf) [(slides)](/assets/slides/spherical-discrepancy-slides.pdf)
+*SODA, 2020* [(pdf)](/assets/papers/spherical-discrepancy.pdf) [(slides)](/assets/slides/spherical-discrepancy-slides.pdf)
 
 ## Notes
 
 **Notes on the proof of the second LP bound and association schemes**  
 [(pdf)](/assets/notes/second_lp_bound.pdf)
+
+**Key-Recovery Attack on a Public-Key Encryption Related to Planted Clique**  
+[Caicai Chen], Chris Jones  
+*2024* [(pdf)](/assets/papers/attack-pke-planted-clique.pdf)
 
 ## Other
 
