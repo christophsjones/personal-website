@@ -22,6 +22,7 @@ Previously, I was a postdoctoral researcher at [Bocconi University](https://dec.
 supported by [Luca Trevisan] and [Alon Rosen]. 
 I obtained my PhD in 2022 from the [University of Chicago](https://www.cs.uchicago.edu)
 advised by [Aaron Potechin].
+In Fall 2026, I'm visiting the Simons Institute in Berkeley for the [Spectral Theory Beyond Graphs](https://simons.berkeley.edu/programs/spectral-theory-beyond-graphs) research program.
 
 
 My research is in theoretical computer science.
