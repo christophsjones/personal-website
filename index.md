@@ -25,12 +25,9 @@ advised by [Aaron Potechin].
 In Fall 2026, I'm visiting the Simons Institute in Berkeley for the [Spectral Theory Beyond Graphs](https://simons.berkeley.edu/programs/spectral-theory-beyond-graphs) research program.
 
 
-My research is in theoretical computer science.
-I am interested in mathematically-inspired algorithm design techniques.
-Recently I've been working on semidefinite programming algorithms (specifically the Sum-of-Squares hierarchy),
-low-degree algorithms, and algorithms from statistical physics.
-Most of my work has studied average-case (a.k.a random/statistical) inputs. 
-
+My research is in theoretical computer science, with a focus on mathematically-inspired algorithm design techniques.
+Recently I've been working on low-degree polynomial algorithms, algorithms from statistical physics,
+and the Grothendieck constant (now we know [it starts with 1.77](https://arxiv.org/abs/2610.10477)!).
 
 ## Some Recorded Talks
 
@@ -44,13 +41,25 @@ Most of my work has studied average-case (a.k.a random/statistical) inputs.
 
 ## Research
 
+**Regularity lemma for Gaussian polynomials**  
+Chris Jones  
+*Manuscript* [(pdf)](/assets/papers/gaussian-regularity-lemma.pdf)
+
+**Primal/dual method for the Grothendieck constant**  
+Chris Jones, [Giulio Malavolta]  
+*Manuscript* [(pdf)](/assets/papers/kg-primaldual.pdf)
+
+**Sharper bounds for the complex Grothendieck constant**  
+Steven Heilman, Chris Jones, Giulio Malavolta  
+*Manuscript* [(pdf)](/assets/papers/kg-complex.pdf)
+
 **Universality of First-order Methods on Random and Deterministic Matrices**  
 [Nicola Gorini], Chris Jones, [Lucas Pesenti], [Dmitriy Kunisky]  
 *Manuscript* [(pdf)](/assets/papers/universality-gfom.pdf)
 
 **The Grothendieck Constant is Strictly Larger than Davie-Reeds' Bound**  
 Chris Jones, [Giulio Malavolta]  
-*Manuscript* [(pdf)](/assets/papers/grothendieck-strictly-larger.pdf)
+*SODA 2027* [(pdf)](/assets/papers/grothendieck-strictly-larger.pdf)
 
 **Higher-order Delsarte Dual LPs: Lifting, Constructions, and Completeness**  
 [Leonardo Nagami Coregliano], [Fernando Granha Jeronimo], Chris Jones, [Nati Linial], Elyassaf Loyfer  
@@ -152,3 +161,4 @@ Undergraduate senior thesis, advised by [Ryan O'Donnell].
 [Giulio Malavolta]: https://sites.google.com/view/giuliomalavolta/
 [Nicola Gorini]: https://nicolagorini.github.io/
 [Dmitriy Kunisky]: https://www.kunisky.com/
+[Giulio Malavolta]: https://sites.google.com/view/giuliomalavolta/ 
