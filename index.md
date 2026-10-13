@@ -46,11 +46,11 @@ Chris Jones
 *Manuscript* [(pdf)](/assets/papers/gaussian-regularity-lemma.pdf)
 
 **Primal/dual method for the Grothendieck constant**  
-Chris Jones, [Giulio Malavolta]  
+[Steven Heilman], Chris Jones, [Giulio Malavolta]  
 *Manuscript* [(pdf)](/assets/papers/kg-primaldual.pdf)
 
 **Sharper bounds for the complex Grothendieck constant**  
-Steven Heilman, Chris Jones, Giulio Malavolta  
+[Steven Heilman], Chris Jones, [Giulio Malavolta]  
 *Manuscript* [(pdf)](/assets/papers/kg-complex.pdf)
 
 **Universality of First-order Methods on Random and Deterministic Matrices**  
@@ -161,4 +161,5 @@ Undergraduate senior thesis, advised by [Ryan O'Donnell].
 [Giulio Malavolta]: https://sites.google.com/view/giuliomalavolta/
 [Nicola Gorini]: https://nicolagorini.github.io/
 [Dmitriy Kunisky]: https://www.kunisky.com/
-[Giulio Malavolta]: https://sites.google.com/view/giuliomalavolta/ 
+[Giulio Malavolta]: https://sites.google.com/view/giuliomalavolta/
+[Steven Heilman]: https://www.stevenheilman.org/
